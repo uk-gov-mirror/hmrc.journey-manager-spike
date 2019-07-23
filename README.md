@@ -1,8 +1,15 @@
+# uniform-scala
 
-# journey-manager-spike
+Functional user journeys in Scala. Write your user-journeys once in an
+extensible Scala
+[eDSL](https://en.wikipedia.org/wiki/Domain-specific_language#Usage_patterns)
+and have interpreters build for you -
 
-This is a placeholder README.md for a new repository
+1. A Web interface in [Play](https://www.playframework.com/)
+2. A GUI interface
+3. A CLI interface
+4. A Static website
+5. Logic tables 
+6. Selenium Tests
 
-### License
-
-This code is open source software licensed under the [Apache 2.0 License]("http://www.apache.org/licenses/LICENSE-2.0.html").
+See the [documentation](https://ltbs.github.io/uniform-scala/) to get started.
